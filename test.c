@@ -4,5 +4,5 @@ main{
 	printf("Hello world");
 }
 
-//This is new v0.3;----------
+//This is v0.3;----------
 
